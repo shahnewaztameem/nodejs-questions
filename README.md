@@ -323,3 +323,20 @@ readFile('./file.txt', { encoding: 'utf8' })
 ```
 
 </details>
+
+###### 21: Which of the following command will show all the modules installed locally?
+
+- A: $ npm ls -g
+- B: $ npm ls
+- C: $ node ls -g
+- D: $ node ls
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: B
+
+Executing ```$ npm ls``` command will show all the modules installed locally
+
+
+</details>
